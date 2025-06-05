@@ -1,7 +1,9 @@
-Additional files and materials are avaliable here:
+# Workshop Materials
 
-[Github Repo of Jan Mizerka]{https://github.com/SICSS-AMULaw/rag_workshop}
+Materials for the workshop prepared by **Jan Mizerka**.
 
-[Needed Files]{https://drive.google.com/drive/folders/1zc-eWI75mCHcEABmZ3TZEz1kt7z4AmKL?usp=share_link}
+## Additional Files and Resources
 
-[Google Colab]{https://drive.google.com/file/d/1rVyuMRJZEiRcHFQSHQvS-VK8eZ4-d3FK/view?usp=sharing}
+- [GitHub Repo of Jan Mizerka](https://github.com/SICSS-AMULaw/rag_workshop) – original repository with source materials  
+- [Needed Files (Google Drive)](https://drive.google.com/drive/folders/1zc-eWI75mCHcEABmZ3TZEz1kt7z4AmKL?usp=share_link) – required data and documents  
+- [Google Colab Notebook](https://drive.google.com/file/d/1rVyuMRJZEiRcHFQSHQvS-VK8eZ4-d3FK/view?usp=sharing) – interactive code environment
